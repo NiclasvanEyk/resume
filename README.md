@@ -1,12 +1,17 @@
 # Resume
 
 Hi, I am **Niclas van Eyk**, a software developer located in Osnabrück, Germany.
-Next to my diverse formal education, I have 7 years of experience building web applications.
+Next to my diverse formal education, I have 8 years of experience building web applications.
 I am always curious to learn new things and enjoy working in teams.
 
 ## Work Experience
 
-### **[2016 – Present]** neusta Infomantis
+### **[2024 – Present]** Team Internet AG
+
+For [Team Internet](https://www.teaminternet.de/en) (the *AG*, which is part of the [PLC with the same name](https://teaminternet.com)), I work on analytical dashboards, data visualizations and everything related.
+Using React and FastAPI, we derive insights from data sourced throughout the company.
+
+### **[2016 – 2024]** neusta Infomantis
 
 To finance my studies and obtain practical experience I started working as a web developer at [neusta Infomantis](https://neusta-infomantis.de).
 As a part of the [team neusta](https://www.team-neusta.de) group, one of the largest software development agencies in Germany, I helped building multiple projects, using a variety of technologies.
